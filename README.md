@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshakreox
-- 👀 I’m interested in autoamting applications
+- 👀 I’m interested in automating applications
 - 🌱 I’m currently learning selenium advanced framework
 <!---
 harshakreox/harshakreox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
